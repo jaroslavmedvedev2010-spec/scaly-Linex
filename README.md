@@ -7,7 +7,7 @@
 А также любых live дистребутивав семейства debian. Возможно сработает и над других live дистрибутивах.
 
 ## как использовать.
-[скачайте скрипт](https://github.com/jaroslavmedvedev2010-spec/scaly-Linex/blob/main/persistence.zip)
+[скачайте скрипт](https://github.com/jaroslavmedvedev2010-spec/scaly-Linex/blame/main/persistence.sh#:~:text=persistence.sh,%C2%A0(%201%20))
 
   запишите iso образ на флешку спомащью dd в терминале или спомощью руфус, также в режыме dd.
   А затем актевируйте скрипт.
